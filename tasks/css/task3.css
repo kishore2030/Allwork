@@ -1,0 +1,11 @@
+.div{
+border:2px solid red;
+width:500px;
+height:100px;margin-left:50px;padding:30px 40px;}
+
+p::first-line{
+color:blue;}
+
+p::first-letter{
+color:red;
+fint-size:50px;}

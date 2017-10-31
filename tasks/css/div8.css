@@ -1,0 +1,28 @@
+.div{
+border:5px solid black;
+width:1000px;
+}
+.div1{
+border:2px solid red;
+
+width:120px;
+float:left;
+background-color:red;
+height:40px;}
+.div2{
+width:100px;
+height:30px;
+float:left;}
+.div3{
+border:2px solid red;
+width:200px;
+float:left;
+background-color:red;
+height:40px;}
+.div4{
+height:30px;
+width:100px;
+float:left;}
+.clear{
+clear:both;}
+

@@ -1,0 +1,19 @@
+.div{
+border:1px solid black;
+width:800px;
+height:480px;}
+
+.div1{
+width:100px;
+height:60px;
+background-color:black;
+float:left;}
+
+.div2{
+width:100px;
+height:60px;
+background-color:none;
+float:left;}
+
+
+

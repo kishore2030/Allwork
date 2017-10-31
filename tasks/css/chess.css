@@ -1,0 +1,19 @@
+.box{
+width:700px;
+height:700px;
+border:1px solid black;
+
+}
+
+.box1{
+float:left;
+width:140px;
+height:140px;
+background-color:green;
+}
+.box2{
+float:left;
+width:140px;
+height:140px;
+background-color:white;
+}

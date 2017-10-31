@@ -1,0 +1,41 @@
+.div{
+border:2px solid black;
+width:1230px;
+height:50px;
+margin-bottom:10px;}
+
+.div1{
+border:2px solid black;
+width:1230px;
+height:300px;
+margin-bottom:10px;}
+
+.div2{
+width:1240px;
+height:300px;
+margin-bottom:10px;}
+
+.div3{
+border:2px solid black;
+width:400px;
+height:200px;
+float:left;
+}
+
+.div4{
+border:2px solid black;
+width:400px;
+height:200px;margin-left:10px;
+float:left;}
+
+.div5{
+border:2px solid black;
+width:400px;
+height:200px;
+margin-left:10px;
+float:left;}
+
+.div6{
+border:2px solid black;
+width:1230px;
+height:50px;}
